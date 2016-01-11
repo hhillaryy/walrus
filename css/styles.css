@@ -1,0 +1,27 @@
+
+.appear {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.slide-in {
+  display: none;
+}
+
+h3 {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.appear-p {
+  display: none;
+}
